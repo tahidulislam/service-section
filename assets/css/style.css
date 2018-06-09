@@ -1,0 +1,120 @@
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+body {
+
+}
+a:hover { text-decoration: none }
+
+/*Service section css*/
+
+.service_area {
+    padding: 95px 0;
+}
+.section_title {
+}
+service_area {
+    padding: 95px 0;
+}
+.section_title h2 {
+    padding-bottom: 18px;
+    position: relative;
+}
+.section_title h2::before {
+    background: #fee67c none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 5px;
+    left: 50%;
+    margin-left: -30px;
+    position: absolute;
+    width: 60px;
+}
+.section_title h2::after {
+    background: #ff7875 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 5px;
+    left: 50%;
+    margin-left: -10px;
+    position: absolute;
+    width: 20px;
+}
+.service_container {
+  color: #000;
+  display: block;
+  margin-bottom: 20px;
+  min-height: 263px;
+  text-align: center;
+}
+.service_icon {
+  display: table;
+  font-size: 70px;
+  height: 112px;
+  width: 100%;
+}
+.servicfe_icon_tablecell {
+    display: table-cell;
+    vertical-align: middle;
+}
+/*
+.service_area{}
+.section_title{}
+.section_title h2{}
+.section_title p{}
+
+.service_container{}
+.service_icon{}
+.servicfe_icon_tablecell{}
+.servicfe_icon_tablecell img{}
+.service_container h3{}
+.service_container p{}*/
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
